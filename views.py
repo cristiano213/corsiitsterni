@@ -8,7 +8,9 @@ from django.http import HttpResponse
 def home(request):   
     return render(request, "core/homepage.html") 
 
+<<<<<<< HEAD
 
 
 def annamariafranzoni():
     print("annamariafranzoni")
+>>>>>>> esternauno
