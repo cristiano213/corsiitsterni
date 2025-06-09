@@ -7,3 +7,8 @@ from django.http import HttpResponse
 
 def home(request):   
     return render(request, "core/homepage.html") 
+
+
+
+def annamariafranzoni():
+    print("annamariafranzoni")
