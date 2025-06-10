@@ -5,4 +5,5 @@ file da usare in casi specifici
 *indirizzo wan
 *secondo parametro
 *porta in ascolto
-*primo parametro
+*primo parametro(obbligatorio)
+*terzo parametro(facoltativo)
