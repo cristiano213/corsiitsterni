@@ -6,3 +6,6 @@ urlpatterns = [
 
         path("",home,name="homeview")
 ]
+
+def ciao():
+    print("ciao")
